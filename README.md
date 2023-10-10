@@ -1,2 +1,2 @@
 # DSpractice
-my data science projects
+my data science practice projects
